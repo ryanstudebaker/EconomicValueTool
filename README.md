@@ -8,6 +8,6 @@ Data includes:
 - Key Metrics (P/E ratio, DCF, etc.)
 - Company Profile (Name, Description, Industry, Sector, etc.)
 
-Financial data are stored as a dataframe and saved as csv.\n
+Financial data are stored as a dataframe and saved as csv.
 
 Uses Python 3.6+ standard library.
