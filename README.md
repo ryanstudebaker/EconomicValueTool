@@ -1,4 +1,4 @@
-# EconomicValueTool
+# Financial Statement Collector
 
 A notebook to pull public company financial data from 2200+ companies.
 Data includes:
